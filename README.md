@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imchanlearning
-- 👀 I’m interested in Data Science, Machine Learning
+- 👀 I am a aspiring self-taught machine learning and data science student.
 - 📫 Check out my notebook on Kaggle! 
 https://www.kaggle.com/imtommi
 
